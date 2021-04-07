@@ -6,8 +6,8 @@
 - 📫 How to reach me?
   - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
-  - **[Gmail](coderexpertzahid@gmail.com "My Mail Account")**
   - **[Twitter](https://twitter.com/ZahidHa45112113 "My Twitter Link")**
+  - **<coderexpertzahid@gmail.com>**
 
 <!---
 Developer-Zahid/Developer-Zahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
