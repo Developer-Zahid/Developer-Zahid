@@ -4,15 +4,17 @@
 - 😎 My skills- ```React JS```, ```HTML```, ```CSS```, ```SCSS```, ```JavaScript```, ```Jquery```, ```Bootstrap```, ```WordPress```, ```Git```, ```Gulp```, etc.  
 - 🌱 I’m currently learning ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
-  - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
-  - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
   - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Link")**
   - **<coderexpertzahid@gmail.com>**
+  - **<dgtaltechzahidhasan@gmail.com>**
+  - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
+  - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
  
 - 🔗 My Portfolio links 👇
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
   - **<https://fabby-she.vercel.app/>**
+  - **<https://successmindinstitute.com/>**
   - **<https://developer-zahid.github.io/Hop-Business-Landing-Page/>**
   - **<https://cryptokitties-clone.netlify.app/>**
   - **<https://clickdown.netlify.app/>**
