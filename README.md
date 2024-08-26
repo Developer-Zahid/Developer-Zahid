@@ -15,7 +15,7 @@
   - **<https://www.usarion.com/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
-  - **<https://fabby-she.vercel.app/>**
+  - **<https://fabby-she.netlify.app/>**
   - **<https://successmindinstitute.com/>**
   - **<https://developer-zahid.github.io/Hop-Business-Landing-Page/>**
   - **<https://cryptokitties-clone.netlify.app/>**
