@@ -11,12 +11,12 @@
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
  
 - 🔗 My Portfolio links 👇
+  - **<https://www.gable.ai/>**
   - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://www.usarion.com/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
-  - **<https://fabby-she.netlify.app/>**
-  - **<https://successmindinstitute.com/>**
+  - **<https://developer-zahid.github.io/CSS-Only-Skeleton-Sprite-Sheets-Game/>**
   - **<https://developer-zahid.github.io/Hop-Business-Landing-Page/>**
   - **<https://cryptokitties-clone.netlify.app/>**
   - **<https://clickdown.netlify.app/>**
