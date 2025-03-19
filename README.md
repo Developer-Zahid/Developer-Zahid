@@ -1,7 +1,7 @@
 # My Introduction #
 - 👋 Hi, I’m ***@Developer-Zahid***
 - 👀 I’m interested in *Front-End Web Design & Development* .
-- 😎 My skills- ```React JS```, ```Webflow```, ``HTML Email Signatures``, ```Framer```, ```Svelte```, ```HTML```, ```CSS```, ```SCSS```, ```JavaScript```, ```Jquery```, ```Bootstrap```, ```Tailwindcss```, ```WordPress```, ```Git```, ```Gulp```, etc.  
+- 😎 My skills- ```Webflow```, ``HTML Email Signatures``, ```React JS```, ```Vue JS```, ```Framer```, ```Svelte```, ```HTML```, ```CSS```, ```SCSS```, ```JavaScript```, ```Jquery```, ```Bootstrap```, ```Tailwindcss```, ```WordPress```, ```Git```, ```Gulp```, etc.  
 - 🌱 I’m currently learning ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Link")**
@@ -11,9 +11,8 @@
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
  
 - 🔗 My Portfolio links 👇
-  - **<https://www.gable.ai/>**
-  - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://www.usarion.com/>**
+  - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
   - **<https://developer-zahid.github.io/CSS-Only-Skeleton-Sprite-Sheets-Game/>**
