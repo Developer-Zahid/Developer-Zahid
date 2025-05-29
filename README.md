@@ -5,10 +5,12 @@
 - 🌱 I’m currently learning ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Link")**
-  - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Link")
+  - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Link")**
   - **<dgtaltechzahidhasan@gmail.com>**
+  - **[Whatsapp](https://wa.me/8801992409030/ "My Whatsapp Number")**
   - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
+  - **[YouTube](https://www.youtube.com/@frontend-css-simplified/ "My YouTube Link")**
  
 - 🔗 My Portfolio links 👇
   - **<https://www.usarion.com/>**
