@@ -1,11 +1,11 @@
 # My Introduction #
 - 👋 Hi, I’m ***@Developer-Zahid***
 - 👀 I’m interested in *Front-End Web Design & Development* .
-- 😎 My skills- ```Webflow```, ``HTML Email Signatures``, ```React JS```, ```Vue JS```, ```Framer```, ```Svelte```, ```HTML```, ```CSS```, ```SCSS```, ```JavaScript```, ```Jquery```, ```Bootstrap```, ```Tailwindcss```, ```WordPress```, ```Git```, ```Gulp```, etc.  
+- 😎 My skills- `Webflow`, `GSAP`, `Finsweet Attributes`, `CSS Animations`, `Nuxt JS`, `Vue JS`, `Astro`, `React JS`, `Svelte JS`, `API Integration`, `W3C Semantic Markup Validation`, `Web Accessibility`, `Schema Markup`, `On-Page SEO`, `HTML Email Signatures`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Tailwindcss`, `Git`, `Gulp`, etc.
 - 🌱 I’m currently learning ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Link")**
-  - **<coderexpertzahid@gmail.com>**
+  - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Link")
   - **<dgtaltechzahidhasan@gmail.com>**
   - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
@@ -49,6 +49,12 @@
   - **<https://nftnewsfr.fr/>**
   - **<https://portfolio-ledp-project.netlify.app/>**
   - **<https://kerstfesst-dev-z.netlify.app/>**
+  - **<https://css-impossible-carousel.netlify.app/>**
+  - **<https://developer-zahid.github.io/GSAP-Split-and-Scramble-Text-Effect/>**
+  - **<https://developer-zahid.github.io/Chatbase-Features-Slider-Clone/>**
+  - **<https://developer-zahid.github.io/V7-Labs-Team-Slider-Clone/>**
+  - **<https://developer-zahid.github.io/Clipy-and-Splity-Slider/>**
+  - **<https://developer-zahid.github.io/Filter-Sliders/>**
   - **<https://timeline-animation-dev-z.netlify.app/>**
   - **<https://developer-zahid.github.io/CSS-MacOS-Dock-Hover/>**
   - **<https://common-coming-soon-page.netlify.app/>**
@@ -59,6 +65,7 @@
   - **<https://css-helicopter.netlify.app/>**
   - **<https://css-theme-toggler.netlify.app/>**
   - **<https://intersection-observer-dev-z.netlify.app>**
+  - **<https://github.com/Developer-Zahid/TypewriterEffect>**
 
 <!---
 Developer-Zahid/Developer-Zahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
