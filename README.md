@@ -16,10 +16,13 @@
   - **<https://www.usarion.com/>**
   - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://filllo-design-agency.webflow.io/>**
+  - **<https://method8.webflow.io/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
   - **<https://developer-zahid.github.io/CSS-Only-Skeleton-Sprite-Sheets-Game/>**
   - **<https://developer-zahid.github.io/Hop-Business-Landing-Page/>**
+  - **<https://kacper-xp-website.netlify.app/>**
+  - **<https://tr-telecoms-website.netlify.app/>**
   - **<https://cryptokitties-clone.netlify.app/>**
   - **<https://clickdown.netlify.app/>**
   - **<https://sdoc-dev-z.netlify.app/>**
@@ -48,7 +51,7 @@
   - **<https://eco-property-dev-z.netlify.app/>**
   - **<https://car-repair-dev-z.netlify.app/>**
   - **<https://vanguard-motors-dev-z.netlify.app/>**
-  - **<https://nftnewsfr.fr/>**
+  - **<https://developer-zahid.github.io/JQuery-Stacking-Card-Slider/>**
   - **<https://portfolio-ledp-project.netlify.app/>**
   - **<https://kerstfesst-dev-z.netlify.app/>**
   - **<https://css-impossible-carousel.netlify.app/>**
@@ -68,6 +71,8 @@
   - **<https://css-theme-toggler.netlify.app/>**
   - **<https://intersection-observer-dev-z.netlify.app>**
   - **<https://github.com/Developer-Zahid/TypewriterEffect>**
+  - **<https://codepen.io/DeveloperZahid/full/ogjoXPa>**
+  - **<https://codepen.io/DeveloperZahid/full/raOzJQK>**
 
 <!---
 Developer-Zahid/Developer-Zahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
