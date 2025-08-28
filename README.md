@@ -13,10 +13,8 @@
   - **[YouTube](https://www.youtube.com/@frontend-css-simplified/ "My YouTube Link")**
  
 - 🔗 My Portfolio links 👇
-  - **<https://www.usarion.com/>**
   - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://filllo-design-agency.webflow.io/>**
-  - **<https://method8.webflow.io/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
   - **<https://developer-zahid.github.io/CSS-Only-Skeleton-Sprite-Sheets-Game/>**
