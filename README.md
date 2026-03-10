@@ -1,25 +1,28 @@
 # My Introduction #
 - 👋 Hi, I’m ***@Developer-Zahid***
 - 👀 I’m interested in *Front-End Web Design & Development* .
-- 😎 My skills- `Webflow`, `Webflow Optimize`, `Webflow Localization`, `Webflow MCP`, `Webflow Advance CMS`, `GSAP`, `Finsweet Attributes`, `Webflow App`, `CSS Animations`, `Nuxt JS`, `Vue JS`, `Astro`, `React JS`, `Svelte JS`, `API Integration`, `W3C Semantic Markup Validation`, `Web Accessibility`, `Schema Markup`, `On-Page SEO`, `HTML Email Signatures`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Tailwindcss`, `Git`, `Gulp`, etc.
+- 😎 My skills- `Webflow`, `Webflow Advance CMS`, `Webflow API`, `Webflow Optimize`, `Webflow Localization`, `Webflow MCP`, `Webflow Cloud`, `Webflow Automation Tools`, `GSAP`, `Finsweet Attributes`, `Webflow App Development`, `CSS Animations`, `Nuxt JS`, `Vue JS`, `Astro`, `React JS`, `Svelte JS`, `API Integration`, `W3C Semantic Markup Validation`, `Web Accessibility`, `Schema Markup`, `On-Page SEO`, `Chrome Extension Development`, `HTML Email Signatures`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Tailwindcss`, `Git`, `Gulp`, etc.
 - 🌱 I’m currently learning ```Prompt Engineering```, ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
-  - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Link")**
+  - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Profile Link")**
   - **[Whatsapp](https://wa.me/8801992409030/ "My Whatsapp Number")**
-  - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Link")**
-  - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Link")**
-  - **[YouTube](https://www.youtube.com/@frontend-css-simplified/ "My YouTube Link")**
+  - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Profile Link")**
+  - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Profile Link")**
+  - **[YouTube](https://www.youtube.com/@frontend-css-simplified/ "My YouTube Channel Link")**
   - **<dgtaltechzahidhasan@gmail.com>**
-  - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Link")**
- 
+  - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Profile Link")**
+
+- 🔗 My Published Chrome Extension links 👇
+  - **[Video Information Extractor for Webflow](https://chromewebstore.google.com/detail/khkagiaafciefiminfjcohefpeimfdkf?utm_source=item-share-cb "Chrome Webstore Link")**
+
 - 🔗 My Portfolio links 👇
   - **<https://www.usarion.com/>**
   - **<https://full-court-new.webflow.io/>**
-  - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://leading-cards-website.webflow.io/>**
-  - **<https://filllo-design-agency.webflow.io/>**
+  - **<https://filllo.com/>**
   - **<https://dont-die-summit-clone.webflow.io/>**
   - **<https://leading-cards-website.webflow.io/>**
+  - **<https://fabby-she.netlify.app/>**
   - **<https://developer-zahid.github.io/A2-Exterminators/>**
   - **<https://developer-zahid.github.io/Greenville-Outdoor-Living/>**
   - **<https://developer-zahid.github.io/CSS-Only-Skeleton-Sprite-Sheets-Game/>**
@@ -31,6 +34,7 @@
   - **<https://sdoc-dev-z.netlify.app/>**
   - **<https://source-raffles-dev-z.netlify.app/>**
   - **<https://valcartier.netlify.app/>**
+  - **<https://classica-dribbble-clone.webflow.io/>**
   - **<https://developer-zahid.github.io/Pure-living/>**
   - **<https://influencer-animated-dev-z.netlify.app/>**
   - **<https://kaff-coffee-webshop.netlify.app/>**
