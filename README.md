@@ -14,6 +14,7 @@
 
 - 🔗 My Published Chrome Extension links 👇
   - **[Video Information Extractor for Webflow](https://chromewebstore.google.com/detail/khkagiaafciefiminfjcohefpeimfdkf?utm_source=item-share-cb "Chrome Webstore Link")**
+  - **[Attribute Class Enhancer for Webflow](https://chromewebstore.google.com/detail/imkdnfefmnlmjokgnnlikaehpfdpeejd?utm_source=item-share-cb "Chrome Webstore Link")**
 
 - 🔗 My Portfolio links 👇
   - **<https://www.usarion.com/>**
