@@ -1,7 +1,7 @@
 # My Introduction #
 - 👋 Hi, I’m ***@Developer-Zahid***
 - 👀 I’m interested in *Front-End Web Design & Development* .
-- 😎 My skills- `Webflow`, `Webflow Advance CMS`, `Webflow API`, `Webflow Optimize`, `Webflow Localization`, `Webflow MCP`, `Webflow Cloud`, `Webflow Automation Tools`, `GSAP`, `Finsweet Attributes`, `Webflow App Development`, `CSS Animations`, `Nuxt JS`, `Vue JS`, `Astro`, `React JS`, `Svelte JS`, `API Integration`, `W3C Semantic Markup Validation`, `Web Accessibility`, `Schema Markup`, `On-Page SEO`, `Chrome Extension Development`, `HTML Email Signatures`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Tailwindcss`, `Git`, `Gulp`, etc.
+- 😎 My skills- `Webflow`, `Webflow Advance CMS`, `Webflow MCP`, `Webflow API`, `Webflow Optimize`, `Webflow Localization`, `Webflow Cloud`, `Webflow Automation Tools`, `GSAP`, `Finsweet Attributes`, `Webflow App Development`, `Webflow Chrome Extension Development`, `CSS Animations`, `Nuxt JS`, `Vue JS`, `Astro`, `Next JS`, `React JS`, `Svelte JS`, `API Integration`, `W3C Semantic Markup Validation`, `Web Accessibility`, `Schema Markup`, `On-Page SEO`, `Chrome Extension Development`, `HTML Email Signatures`, `HTML`, `CSS`, `SCSS`, `JavaScript`, `Jquery`, `Bootstrap`, `Tailwindcss`, `Git`, `Gulp`, etc.
 - 🌱 I’m currently learning ```Prompt Engineering```, ```Advance JavaScript libraries```, ```Advanced CSS``` etc.
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/zahid-hasan-munna/ "My Linkedin Profile Link")**
@@ -9,7 +9,7 @@
   - **[Facebook](https://www.facebook.com/coderexpertzahid/ "My Facebook Profile Link")**
   - **[Twitter](https://x.com/ZahidHa45112113/ "My Twitter Profile Link")**
   - **[YouTube](https://www.youtube.com/@frontend-css-simplified/ "My YouTube Channel Link")**
-  - **<dgtaltechzahidhasan@gmail.com>**
+  - **<developerzahidhasanmunna@gmail.com>**
   - **[CodePen](https://codepen.io/DeveloperZahid "My Codepen Profile Link")**
 
 - 🔗 My Published Chrome Extension links 👇
@@ -64,6 +64,7 @@
   - **<https://portfolio-ledp-project.netlify.app/>**
   - **<https://kerstfesst-dev-z.netlify.app/>**
   - **<https://css-impossible-carousel.netlify.app/>**
+  - **<https://gsap-motion-intro.netlify.app/>**
   - **<https://developer-zahid.github.io/GSAP-Split-and-Scramble-Text-Effect/>**
   - **<https://developer-zahid.github.io/Chatbase-Features-Slider-Clone/>**
   - **<https://developer-zahid.github.io/V7-Labs-Team-Slider-Clone/>**
