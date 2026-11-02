@@ -16,6 +16,16 @@
   - **[Breakpoint Remover for Webflow](https://chromewebstore.google.com/detail/jgbhmadhjoliblokbgjohbddkmjfhcoi?utm_source=item-share-cb "Chrome Webstore Link")**
   - **[Attribute Class Enhancer for Webflow](https://chromewebstore.google.com/detail/imkdnfefmnlmjokgnnlikaehpfdpeejd?utm_source=item-share-cb "Chrome Webstore Link")**
   - **[Video Information Extractor for Webflow](https://chromewebstore.google.com/detail/khkagiaafciefiminfjcohefpeimfdkf?utm_source=item-share-cb "Chrome Webstore Link")**
+ 
+- 🔗 My Web Tool links 👇
+  - **<https://html-to-webflow-converter.netlify.app/>**
+  - **<https://developer-zahid.github.io/Meta-Head-Builder/>**
+  - **<https://developer-zahid.github.io/Fluid-Typography-Generator/>**
+  - **<https://developer-zahid.github.io/css-nth-child-generator/>**
+  - **<https://developer-zahid.github.io/css-aspect-ratio-calculator/>**
+  - **<https://developer-zahid.github.io/Code-Minify-and-Obfuscator/>**
+  - **<https://developer-zahid.github.io/BrandPreview/>**
+  - **<https://developer-zahid.github.io/Stripe-Mask-Reveal-Generator/>**
 
 - 🔗 My Portfolio links 👇
   - **<https://www.usarion.com/>**
@@ -72,6 +82,7 @@
   - **<https://developer-zahid.github.io/Filter-Sliders/>**
   - **<https://timeline-animation-dev-z.netlify.app/>**
   - **<https://developer-zahid.github.io/CSS-MacOS-Dock-Hover/>**
+  - **<https://developer-zahid.github.io/Huly-Animated-Gradient-Glow-Border/>**
   - **<https://common-coming-soon-page.netlify.app/>**
   - **<https://common-error-page.netlify.app/>**
   - **<https://vanilla-typed-js.netlify.app/>**
@@ -80,6 +91,7 @@
   - **<https://css-helicopter.netlify.app/>**
   - **<https://css-theme-toggler.netlify.app/>**
   - **<https://intersection-observer-dev-z.netlify.app>**
+  - **<https://developer-zahid.github.io/CSS-View-Transitions-Effect/>**
   - **<https://github.com/Developer-Zahid/TypewriterEffect>**
   - **<https://codepen.io/DeveloperZahid/full/ogjoXPa>**
   - **<https://codepen.io/DeveloperZahid/full/raOzJQK>**
