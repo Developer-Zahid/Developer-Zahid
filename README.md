@@ -18,14 +18,14 @@
   - **[Video Information Extractor for Webflow](https://chromewebstore.google.com/detail/khkagiaafciefiminfjcohefpeimfdkf?utm_source=item-share-cb "Chrome Webstore Link")**
  
 - 🔗 My Web Tool links 👇
-  - **<https://html-to-webflow-converter.netlify.app/>**
-  - **<https://developer-zahid.github.io/Meta-Head-Builder/>**
-  - **<https://developer-zahid.github.io/Fluid-Typography-Generator/>**
-  - **<https://developer-zahid.github.io/css-nth-child-generator/>**
-  - **<https://developer-zahid.github.io/css-aspect-ratio-calculator/>**
-  - **<https://developer-zahid.github.io/Code-Minify-and-Obfuscator/>**
-  - **<https://developer-zahid.github.io/BrandPreview/>**
-  - **<https://developer-zahid.github.io/Stripe-Mask-Reveal-Generator/>**
+  - **[HTML to Webflow Converter](https://html-to-webflow-converter.netlify.app/)**
+  - **[Meta Head Tag Builder](https://developer-zahid.github.io/Meta-Head-Builder/)**
+  - **[Fluid Typography Generator](https://developer-zahid.github.io/Fluid-Typography-Generator/)**
+  - **[CSS Sequence :nth-child() Generator](https://developer-zahid.github.io/css-nth-child-generator/)**
+  - **[CSS Aspect Ratio Calculator](https://developer-zahid.github.io/css-aspect-ratio-calculator/)**
+  - **[Code Obfuscator](https://developer-zahid.github.io/Code-Minify-and-Obfuscator/)**
+  - **[Brand Previewer](https://developer-zahid.github.io/BrandPreview/)**
+  - **[Stripe Mask Reveal Generator](https://developer-zahid.github.io/Stripe-Mask-Reveal-Generator/)**
 
 - 🔗 My Portfolio links 👇
   - **<https://www.usarion.com/>**
